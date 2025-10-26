@@ -1,0 +1,9 @@
+Django >= 5.2, < 6.0
+djangorestframework >= 3.14, < 4.0
+djangorestframework-simplejwt >= 5.2.0
+djoser >= 2.1.0
+cryptography >= 46.0.0
+defusedxml >= 0.7.0
+requests >= 2.32.0
+flake8 >= 7.0.0
+isort >= 7.0.0
